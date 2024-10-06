@@ -1,6 +1,6 @@
-# FRC Robotics Documentation [arsiv](https://arsivv.gitbook.io/docs/mekanik/motorlar)
+# FRC Robotics Documentation [arsiv](https://arsivv.gitbook.io/docs)
 
-Welcome to the **FRC Robotics Documentation [arsiv](https://arsivv.gitbook.io/docs/mekanik/motorlar)**! 📚 This repository serves as an extensive collection of knowledge covering **mechanical**, **electrical**, and **software** components of FRC robotics. It is designed as a **living arsiv**, meant to preserve valuable information for the FRC community and to be continuously updated with new insights and resources.
+Welcome to the **FRC Robotics Documentation [arsiv](https://arsivv.gitbook.io/docs)**! 📚 This repository serves as an extensive collection of knowledge covering **mechanical**, **electrical**, and **software** components of FRC robotics. It is designed as a **living arsiv**, meant to preserve valuable information for the FRC community and to be continuously updated with new insights and resources.
 
 ## About the arsiv
 
