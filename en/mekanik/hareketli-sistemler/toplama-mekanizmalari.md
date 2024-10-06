@@ -1,2 +1,0 @@
-# Toplama Mekanizmaları
-

@@ -1,2 +1,0 @@
-# Kaldırma Mekanizmaları
-

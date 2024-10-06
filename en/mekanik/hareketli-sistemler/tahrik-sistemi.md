@@ -1,2 +1,0 @@
-# Tahrik Sistemi
-

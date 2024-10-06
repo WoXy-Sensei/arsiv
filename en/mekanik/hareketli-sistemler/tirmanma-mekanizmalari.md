@@ -1,2 +1,0 @@
-# Tırmanma Mekanizmaları
-

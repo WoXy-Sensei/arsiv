@@ -1,2 +1,0 @@
-# Atıcılar ve Fırlatıcılar
-
