@@ -32,5 +32,3 @@ Bu projede yer alan tüm destekleyen takımlara içten teşekkürlerimizi sunuyo
 
 </div>
 
-
-

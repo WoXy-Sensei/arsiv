@@ -2,7 +2,7 @@
 
 ## NEO V1.1 Genel Bakış <a href="#neo-v1.1-overview" id="neo-v1.1-overview"></a>
 
-NEO V1.1, FIRST Robotics Competition topluluğunun benzersiz taleplerini karşılamak için tasarlanmış ilk fırçasız motorun ilk güncellemesidir. NEO V1.1, kompakt boyutu ve azaltılmış ağırlığı sayesinde inanılmaz bir güç yoğunluğu sunar ve CIM tarzı motorların yerine geçecek ve birçok montaj seçeneğiyle kolay bir kurulum olacak şekilde tasarlanmıştır. Dahili hall-effect enkoder, düşük hızlı tork performansını garanti ederken ek donanım olmadan akıllı kontrol sağlar. \
+NEO V1.1, FIRST Robotics Competition topluluğunun benzersiz taleplerini karşılamak için tasarlanmış ilk fırçasız motorun ilk güncellemesidir. NEO V1.1, kompakt boyutu ve azaltılmış ağırlığı sayesinde inanılmaz bir güç yoğunluğu sunar ve [CIM](../../fircali-motorlar/cim.md) tarzı motorların yerine geçecek ve birçok montaj seçeneğiyle kolay bir kurulum olacak şekilde tasarlanmıştır. Dahili hall-effect encoder, düşük hızlı tork performansını garanti ederken ek donanım olmadan akıllı kontrol sağlar. \
 \
 NEO V1.1, inanılmaz performans ve geri bildirim sunmak için [SPARK MAX](../../../../spark-max.md) Motor Kontrol Cihazı ile çalışacak şekilde optimize edilmiştir.
 

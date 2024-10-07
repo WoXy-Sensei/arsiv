@@ -8,7 +8,7 @@ Falcon motor, FRC (FIRST Robotics Competition) yarışmalarında sıkça kullan�
 
 ***
 
-### Özellikleri:
+## Özellikleri:
 
 * **Boşta Çekilen Akım (Free Current):** 1.5 Amper&#x20;
 * **Boşta Dönme Hızı (Free Speed):** 6380 RPM (devir/dakika)
@@ -19,13 +19,13 @@ Falcon motor, FRC (FIRST Robotics Competition) yarışmalarında sıkça kullan�
 
 ***
 
-#### Avantajları şunlardır:
+### Avantajları şunlardır:
 
 * **Enerji Verimliliği:** Fırçasız motor teknolojisi sayesinde daha az enerji tüketir ve daha uzun ömür sunar.
 * **Daha Az Bakım:** Fırçasız yapı, aşınma ve yıpranma oranını azaltarak bakım ihtiyacını minimuma indirir.
 * **Kompakt Tasarım:** Hafif ve kompakt yapısı, robot tasarımında esneklik sağlar ve yer tasarrufu sağlar.
 
-#### Dezavantajları şunlardır:
+### Dezavantajları şunlardır:
 
 * **Yüksek Maliyet:** Fırçasız motorlar genellikle daha pahalıdır, bu da bütçesi kısıtlı takımlar için dezavantaj oluşturabilir.
 

@@ -57,7 +57,7 @@ DİKKAT: Konektörlerin yanlış kablolanması ciddi motor hasarına neden olabi
 ## NEO V1.1 Motor Eğrisi
 
 {% hint style="info" %}
-NEO V1 ve NEO V1.1 arasındaki tek fark, motorun gövdesinde yapılan harici değişikliklerdir.
+NEO V1 ve [NEO V1.1](./#neo-v1.1-motor-egrisi) arasındaki tek fark, motorun gövdesinde yapılan harici değişikliklerdir.
 {% endhint %}
 
 <figure><img src="../../../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>

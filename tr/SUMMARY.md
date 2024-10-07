@@ -34,7 +34,6 @@
 
 ***
 
-* [Destekçiler](destekciler.md)
 * [Spark Max'in Kablolanması](spark-maxin-kablolanmasi.md)
 * [Spark Max](spark-max.md)
 * [Spark Flex Motor Kontrolcüsü](spark-flex-motor-kontrolcusu.md)
