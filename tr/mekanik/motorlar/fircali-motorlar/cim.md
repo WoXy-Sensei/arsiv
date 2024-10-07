@@ -4,7 +4,7 @@
 
 ***
 
-<figure><img src="../../../.gitbook/assets/image.png" alt="" width="335"><figcaption><p>CIM</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image.png" alt="" width="335"><figcaption></figcaption></figure>
 
 ***
 

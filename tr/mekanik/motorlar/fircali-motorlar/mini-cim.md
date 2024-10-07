@@ -4,7 +4,7 @@ Mini CIM motor, CIM motorunun daha küçük ve hafif bir versiyonudur. FRC'de ya
 
 ***
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt="" width="375"><figcaption><p>Mini CIM</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ***
 

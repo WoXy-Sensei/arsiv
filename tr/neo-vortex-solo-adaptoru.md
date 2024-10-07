@@ -1,0 +1,2 @@
+# NEO Vortex Solo Adaptörü
+
