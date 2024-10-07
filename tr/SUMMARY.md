@@ -1,8 +1,15 @@
 # Table of contents
 
+## Genel Bakış
+
+* [Giriş](README.md)
+* [Biz ne yapıyoruz](genel-bakis/biz-ne-yapiyoruz.md)
+* [🫂 Katkıda Bulunma](genel-bakis/katkida-bulunma.md)
+* [Github](https://github.com/WoXy-Sensei/arsiv)
+
 ## MEKANİK
 
-* [Hareketli Sistemler](README.md)
+* [Hareketli Sistemler](<README (1).md>)
   * [Tahrik Sistemi](mekanik/hareketli-sistemler/tahrik-sistemi.md)
   * [Kaldırma Mekanizmaları](mekanik/hareketli-sistemler/kaldirma-mekanizmalari.md)
   * [Atıcılar ve Fırlatıcılar](mekanik/hareketli-sistemler/aticilar-ve-firlaticilar.md)
