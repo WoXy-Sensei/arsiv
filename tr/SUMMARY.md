@@ -5,6 +5,7 @@
 * [Giriş](README.md)
 * [Biz ne yapıyoruz](genel-bakis/biz-ne-yapiyoruz.md)
 * [🫂 Katkıda Bulunma](genel-bakis/katkida-bulunma.md)
+* [🤖 Teşekkürler](genel-bakis/tesekkurler.md)
 * [Github](https://github.com/WoXy-Sensei/arsiv)
 
 ## MEKANİK
