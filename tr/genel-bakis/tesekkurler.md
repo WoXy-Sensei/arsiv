@@ -32,3 +32,26 @@ Bu projede yer alan tüm destekleyen takımlara içten teşekkürlerimizi sunuyo
 
 </div>
 
+### Team 2363 - [Triple Helix Robotics](https://team2363.org/)
+
+<div align="left">
+
+<figure><img src="../.gitbook/assets/frc2363 (1) (1).png" alt="" width="320"><figcaption></figcaption></figure>
+
+</div>
+
+### Team 3015 - [Ranger Robotics](https://www.instagram.com/frc3015/)
+
+<div align="left">
+
+<figure><img src="../.gitbook/assets/frc3015.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+### Team 125 - [NUTRONS](https://www.nutrons.com/)
+
+<div align="left">
+
+<figure><img src="../.gitbook/assets/image (27).png" alt="" width="300"><figcaption></figcaption></figure>
+
+</div>
