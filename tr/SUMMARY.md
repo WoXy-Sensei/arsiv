@@ -31,12 +31,14 @@
       * [Neo 550](mekanik/motorlar/fircasiz-motorlar/neo-v1/neo-550.md)
     * [Falcon](mekanik/motorlar/fircasiz-motorlar/falcon.md)
     * [Kraken x60](mekanik/motorlar/fircasiz-motorlar/kraken-x60.md)
+* [Swerve](mekanik/swerve/README.md)
+  * [MK4](mekanik/swerve/mk4.md)
+  * [MK4i](mekanik/swerve/mk4i/README.md)
+    * [MK4i Montaj Kılavuzu](mekanik/swerve/mk4i/mk4i-montaj-kilavuzu.md)
+  * [MK4n](mekanik/swerve/mk4n.md)
 
 ***
 
-* [Swerve](swerve/README.md)
-  * [MK4I](swerve/mk4i/README.md)
-    * [Page 1](swerve/mk4i/page-1.md)
 * [Spark Max'in Kablolanması](spark-maxin-kablolanmasi.md)
 * [Spark Max](spark-max.md)
 * [Spark Flex Motor Kontrolcüsü](spark-flex-motor-kontrolcusu.md)

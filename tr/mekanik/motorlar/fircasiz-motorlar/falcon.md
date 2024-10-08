@@ -4,7 +4,7 @@ Falcon motor, FRC (FIRST Robotics Competition) yarışmalarında sıkça kullan�
 
 ***
 
-<figure><img src="../../../.gitbook/assets/image (14).png" alt="" width="350"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (14) (1).png" alt="" width="350"><figcaption></figcaption></figure>
 
 ***
 

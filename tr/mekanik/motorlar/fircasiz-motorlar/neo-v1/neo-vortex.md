@@ -6,7 +6,7 @@ NEO Vortex Fırçasız Motor, REV Robotics'in yüksek güçlü, yüksek performa
 
 <div align="left">
 
-<figure><img src="../../../../.gitbook/assets/image (21).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (21) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -31,7 +31,7 @@ NEO Vortex Fırçasız Motor, REV Robotics'in yüksek güçlü, yüksek performa
 
 ## NEO Vortex Anatomisi <a href="#neo-vortex-anatomy" id="neo-vortex-anatomy"></a>
 
-<figure><img src="../../../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Motor Özellikleri <a href="#motor-specifications" id="motor-specifications"></a>
 
@@ -73,7 +73,7 @@ NEO Vortex Fırçasız Motor, REV Robotics'in yüksek güçlü, yüksek performa
 
 ## NEO Vortex Motor Eğrisi <a href="#neo-vortex-motor-curve" id="neo-vortex-motor-curve"></a>
 
-<figure><img src="../../../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (18) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

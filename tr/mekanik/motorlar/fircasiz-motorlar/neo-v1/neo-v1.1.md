@@ -8,7 +8,7 @@ NEO V1.1, inanılmaz performans ve geri bildirim sunmak için [SPARK MAX](../../
 
 <div align="left">
 
-<figure><img src="../../../../.gitbook/assets/image (20).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (20) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -64,4 +64,4 @@ DİKKAT: Konektörlerin yanlış kablolanması ciddi motor hasarına neden olabi
 
 ## NEO V1.1 Motor Eğrisi
 
-<figure><img src="../../../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
