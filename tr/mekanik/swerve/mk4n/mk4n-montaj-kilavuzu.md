@@ -161,7 +161,7 @@ Saptırma modülünün yönlendirme ekseni, 0,25“ mıknatıslı enkoderler (CT
 
 <figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
-### 0.5” Hex Encoder Configuration
+### 0.5” Hex Kodlayıcı Yapılandırması
 
 * İki adet 6802ZZ Rulmanı (24 mm Dış Çap) Çift Dişliye yerleştirin ve ardından 1/4“-20 x 0,625” Soket Başlı Vida ile sabitlenmiş Orta Kolon ile yakalayın.
 
