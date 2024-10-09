@@ -8,6 +8,14 @@
 * [🤖 Teşekkürler](genel-bakis/tesekkurler.md)
 * [Github](https://github.com/WoXy-Sensei/arsiv)
 
+## Elektrik Elektronik
+
+* [Temel Donanımlar](elektrik-elektronik/temel-donanimlar/README.md)
+  * [NI roboRIO](elektrik-elektronik/temel-donanimlar/ni-roborio.md)
+  * [CTRE Power Distribution Panel](elektrik-elektronik/temel-donanimlar/ctre-power-distribution-panel.md)
+  * [REV Power Distribution Hub](elektrik-elektronik/temel-donanimlar/rev-power-distribution-hub.md)
+  * [CTRE Voltage Regulator Module](elektrik-elektronik/temel-donanimlar/ctre-voltage-regulator-module.md)
+
 ## MEKANİK
 
 * [Hareketli Sistemler](<README (1).md>)

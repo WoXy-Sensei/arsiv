@@ -4,7 +4,7 @@
 
 Beş adet #10-32 X .25 Düğme Başlı Vida ile sabitleyin. Açık olmayan vida konumları bitişik delikli noktalarla gösterilmiştir.
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -16,7 +16,7 @@ Beş adet #10-32 X .25 Düğme Başlı Vida ile sabitleyin. Açık olmayan vida 
 * Baş Vidaları. 45t Konik Tarafına .5” ID Rulman ve Tekerlek Ara Parçasını yerleştirin
 * .375” ID Rulmanı karşı tarafa yerleştirin.
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -34,7 +34,7 @@ FR6ZZ-10.25mmID Flanşlı Rulman ve Mil Takın
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
