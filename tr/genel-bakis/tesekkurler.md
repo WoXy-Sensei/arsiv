@@ -52,6 +52,6 @@ Bu projede yer alan tüm destekleyen takımlara içten teşekkürlerimizi sunuyo
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (27).png" alt="" width="300"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (27) (1).png" alt="" width="300"><figcaption></figcaption></figure>
 
 </div>

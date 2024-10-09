@@ -1,6 +1,6 @@
 # CTRE Voltage Regulator Module
 
-<figure><img src="../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (28) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Giriş ve Çıkışlar
 

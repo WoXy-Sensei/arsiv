@@ -6,7 +6,7 @@ NEO Fırçasız Motor, FRC topluluğunun benzersiz taleplerini karşılamak içi
 
 <div align="left">
 
-<figure><img src="../../../../.gitbook/assets/image (19) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (19) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -60,7 +60,7 @@ DİKKAT: Konektörlerin yanlış kablolanması ciddi motor hasarına neden olabi
 NEO V1 ve [NEO V1.1](./#neo-v1.1-motor-egrisi) arasındaki tek fark, motorun gövdesinde yapılan harici değişikliklerdir.
 {% endhint %}
 
-<figure><img src="../../../../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (16) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

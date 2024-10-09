@@ -1,10 +1,10 @@
 # Mini CIM
 
-Mini CIM motor, CIM motorunun daha küçük ve hafif bir versiyonudur. FRC'de yaygın olarak kullanılır ve güçlü performansı ile bilinir. Daha az tork üretmesine rağmen, boyutunun daha küçük olması ve hafifliği sayesinde özellikle hız ve yer tasarrufu gerektiren uygulamalarda tercih edilir. Mini CIM motor, CIM motorun sunduğu pek çok avantajı daha kompakt bir yapıda sunar.
+Mini CIM motor, [CIM](cim.md) motorunun daha küçük ve hafif bir versiyonudur. FRC'de yaygın olarak kullanılır ve güçlü performansı ile bilinir. Daha az tork üretmesine rağmen, boyutunun daha küçük olması ve hafifliği sayesinde özellikle hız ve yer tasarrufu gerektiren uygulamalarda tercih edilir. Mini CIM motor, [CIM](cim.md) motorun sunduğu pek çok avantajı daha kompakt bir yapıda sunar.
 
 ***
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ***
 
@@ -30,12 +30,12 @@ Mini CIM motor, CIM motorunun daha küçük ve hafif bir versiyonudur. FRC'de ya
 
 #### Dezavantajları şunlardır:
 
-* **Daha düşük tork**: CIM motor kadar yüksek tork üretmez, bu nedenle çok güçlü veya ağır yük gerektiren uygulamalarda yetersiz kalabilir.
+* **Daha düşük tork**: [CIM](cim.md) motor kadar yüksek tork üretmez, bu nedenle çok güçlü veya ağır yük gerektiren uygulamalarda yetersiz kalabilir.
 * **Yüksek güç tüketimi**: Küçük olmasına rağmen, hala enerji açısından verimli değildir ve bataryayı hızlı tüketebilir.
 
 ***
 
-Mini CIM motor, hız ve yer tasarrufu gerektiren uygulamalarda kullanılır. Yüksek tork gerektirmeyen görevlerde, CIM motoruna göre daha kompakt ve hafif bir alternatif sunar. Özellikle robotun ağırlık sınırlarını zorlamadan güçlü bir performans sergilemek isteyen takımlar için ideal bir seçimdir.
+Mini CIM motor, hız ve yer tasarrufu gerektiren uygulamalarda kullanılır. Yüksek tork gerektirmeyen görevlerde, [CIM](cim.md) motoruna göre daha kompakt ve hafif bir alternatif sunar. Özellikle robotun ağırlık sınırlarını zorlamadan güçlü bir performans sergilemek isteyen takımlar için ideal bir seçimdir.
 
 
 

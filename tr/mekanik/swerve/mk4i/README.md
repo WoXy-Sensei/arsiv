@@ -4,7 +4,7 @@ MK4i, [MK4](../mk4.md) modülünün ters çevrilmiş motorlu, köşe tabanlı ve
 
 ***
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -19,7 +19,7 @@ MK4i, [MK4](../mk4.md) modülünün ters çevrilmiş motorlu, köşe tabanlı ve
 * 15mm genişliğinde direksiyon kayışı
 * Direksiyon enkoderini korumak için enkoder koruması
 * Önceki Swerve Drive Specialties modülleri ile aynı şasiden zemine yükseklik
-* [MK4](../mk4.md) modülü ile aynı L1, L2 ve L3 tahrik oranları (ayrı olarak temin edilebilen 16T Tahrik Pinyonu Adaptör Kiti kullanıldığında [MK4n](../mk4n.md) ile aynı L1+, L2+ ve L3+ tahrik oranları)
+* [MK4](../mk4.md) modülü ile aynı L1, L2 ve L3 tahrik oranları (ayrı olarak temin edilebilen 16T Tahrik Pinyonu Adaptör Kiti kullanıldığında [MK4n](../mk4n/) ile aynı L1+, L2+ ve L3+ tahrik oranları)
 * 3D baskılı parça yok
 * Kablo bağı “çıkıntıları” kablo bağlarını yerinde tutar
 * Alt ve üst montajlı şasi seçenekleri
@@ -44,7 +44,7 @@ CIM motorları daha büyük çapları nedeniyle MK4i ile uyumlu değildir. (kıs
 
 * MK4i'nin direksiyon dişli oranı 150/7:1'dir.
 
-MK4i 3 farklı tahrik dişlisi oranında mevcuttur. Aşağıdaki tablo [NEO](../../motorlar/fircasiz-motorlar/neo-v1/) ve [Falcon 500](../../motorlar/fircasiz-motorlar/falcon.md) motorlarla tahrik dişlisi oranlarını ve serbest hızları göstermektedir. L1 ve L2 oranları en popüler oranlardır ve standart tam ağırlık yarışma robotları için uygundur. L3 oranı daha agresiftir ve hafif robotlar için önerilir.
+MK4i 3 farklı tahrik dişlisi oranında mevcuttur. Aşağıdaki tablo [NEO](../../motorlar/fircasiz-motorlar/neo-v1/) ve [Falcon 500](../../motorlar/fircasiz-motorlar/falcon-500.md) motorlarla tahrik dişlisi oranlarını ve serbest hızları göstermektedir. L1 ve L2 oranları en popüler oranlardır ve standart tam ağırlık yarışma robotları için uygundur. L3 oranı daha agresiftir ve hafif robotlar için önerilir.
 
 {% hint style="info" %}
 Ayrıca temin edilebilen 16T Tahrik Pinyonu Adaptör Kiti kullanılarak \~%14 artırılabilir.

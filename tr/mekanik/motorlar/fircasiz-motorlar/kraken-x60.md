@@ -4,7 +4,7 @@
 
 ***
 
-<figure><img src="../../../.gitbook/assets/image (15) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (15) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ***
 
@@ -34,13 +34,13 @@ Entegre bir motor kontrolcüsü, kontrolcü ve motor arasındaki kablolamayı ü
 Kontrolcü motorun içine yerleştirildiğinden, ekiplerin bağımsız motor kontrolörlerini monte etmek için robotlarında yer ayırmaları gerekmez.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (24) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
 ## Durum Işıkları
 
-<figure><img src="../../../.gitbook/assets/image (26).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (26) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 | LED Durumu               | Tanım                                                                                        |
 | ------------------------ | -------------------------------------------------------------------------------------------- |

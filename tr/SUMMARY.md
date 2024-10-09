@@ -37,13 +37,14 @@
       * [Neo Vortex](mekanik/motorlar/fircasiz-motorlar/neo-v1/neo-vortex.md)
       * [Neo V1.1](mekanik/motorlar/fircasiz-motorlar/neo-v1/neo-v1.1.md)
       * [Neo 550](mekanik/motorlar/fircasiz-motorlar/neo-v1/neo-550.md)
-    * [Falcon](mekanik/motorlar/fircasiz-motorlar/falcon.md)
+    * [Falcon 500](mekanik/motorlar/fircasiz-motorlar/falcon-500.md)
     * [Kraken x60](mekanik/motorlar/fircasiz-motorlar/kraken-x60.md)
 * [Swerve](mekanik/swerve/README.md)
   * [MK4](mekanik/swerve/mk4.md)
   * [MK4i](mekanik/swerve/mk4i/README.md)
     * [MK4i Montaj Kılavuzu](mekanik/swerve/mk4i/mk4i-montaj-kilavuzu.md)
-  * [MK4n](mekanik/swerve/mk4n.md)
+  * [MK4n](mekanik/swerve/mk4n/README.md)
+    * [MK4n Montaj Kılavuzu](mekanik/swerve/mk4n/mk4n-montaj-kilavuzu.md)
 
 ***
 

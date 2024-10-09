@@ -2,9 +2,9 @@
 
 ## Adım 1 - Ana Rulman Montajı
 
-Beş adet #10-32 X .25 Düğme Başlı Vida ile sabitleyin. Açık olmayan vida konumları bitişik delikli noktalarla gösterilmiştir.
+* Beş adet #10-32 X .25 Düğme Başlı Vida ile sabitleyin. Açık olmayan vida konumları bitişik delikli noktalarla gösterilmiştir.
 
-<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -16,7 +16,7 @@ Beş adet #10-32 X .25 Düğme Başlı Vida ile sabitleyin. Açık olmayan vida 
 * Baş Vidaları. 45t Konik Tarafına .5” ID Rulman ve Tekerlek Ara Parçasını yerleştirin
 * .375” ID Rulmanı karşı tarafa yerleştirin.
 
-<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -34,7 +34,7 @@ FR6ZZ-10.25mmID Flanşlı Rulman ve Mil Takın
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -64,41 +64,47 @@ Segman'ı Şaftın oluğuna takın
 
 ## Adım 4: Orta Kolon Montajı
 
-Kodlayıcı mıknatısını (kodlayıcı ile birlikte ayrıca verilir) Merkeze yerleştirin Sütununa yerleştirin ve Loctite 609 Tespit Bileşeni ile sabitleyin (fazlalıkları silin), mıknatısın Orta Sütunun üst kısmıyla aynı hizada olmasını sağlayın. İki adet 6802ZZ Rulmanı Çift Dişliye yerleştirin ve Orta Kolon ve 1/4“-20 X.625” Soket Başlı Başlık Vidası ile yakalayın.
+* Kodlayıcı mıknatısını (kodlayıcı ile birlikte ayrıca verilir) Merkeze yerleştirin Sütununa yerleştirin ve Loctite 609 Tespit Bileşeni ile sabitleyin (fazlalıkları silin), mıknatısın Orta Sütunun üst kısmıyla aynı hizada olmasını sağlayın.&#x20;
+* İki adet 6802ZZ Rulmanı Çift Dişliye yerleştirin ve Orta Kolon ve 1/4“-20 X.625” Soket Başlı Başlık Vidası ile yakalayın.
 
-<figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
 ## Adım 5: Kasnak Montajı
 
-Direksiyon Kayışını Direksiyon Mili ve Taban Kasnağı arasında yakalayın. .375” Altıgen delikli 20DP 50t dişliyi Direksiyon Miline ve Taban Kasnağı ile Çift Dişli arasına yerleştirin. Montaja devam etmeden önce R188ZZ Rulmanı Ana Plakaya yerleştirin.
+* Direksiyon Kayışını Direksiyon Mili ve Taban Kasnağı arasında yakalayın.&#x20;
+* .375” Altıgen delikli 20DP 50t dişliyi Direksiyon Miline ve Taban Kasnağı ile Çift Dişli arasına yerleştirin.&#x20;
+* Montaja devam etmeden önce R188ZZ Rulmanı Ana Plakaya yerleştirin.
 
-<figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
 ## Adım 5: Kasnak Montajı (Devam)
 
-Taban Kasnağı Tertibatını yerleştirin, Taban Kasnağını X-Contact Yatağı ve Direksiyon Milini R188ZZ Yatağı ile hizalayın. 15t Konik Dişliyi, ardından 1mm Şimi ve 688 Yatağı yerleştirin.
+* Taban Kasnağı Tertibatını yerleştirin, Taban Kasnağını X-Contact Yatağı ve Direksiyon Milini R188ZZ Yatağı ile hizalayın.&#x20;
+* 15t Konik Dişliyi, ardından 1mm Şimi ve 688 Yatağı yerleştirin.
 
-<figure><img src="../../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
 ## Adım 6: Tekerlek ve Motor Montaj Hazırlığı
 
-Tekerlek Bağlantısı B'yi iki adet 1/4-20 X .625 Soket Başlıklı Vida ile takın. Üç adet 688 Rulman, 20DP 50t Dişli, .5 “OD .375 ”ID Ara Parça ve 6802ZZ Rulmanı ilgili şaftlara yerleştirin.
+* Tekerlek Bağlantısı B'yi iki adet 1/4-20 X .625 Soket Başlıklı Vida ile takın.&#x20;
+* Üç adet 688 Rulman, 20DP 50t Dişli, .5 “OD .375 ”ID Ara Parça ve 6802ZZ Rulmanı ilgili şaftlara yerleştirin.
 
-<figure><img src="../../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
 ## Adım 7: Motor Plakası Montajı
 
-Üç yatak deliğini hizalayın ve Motor Plakasını takın. Üç rulmanın da rulman deliklerine oturduğundan emin olun ve üç #10 X 1,875“ Ara Parçadan geçen üç #10-32 X 2,25” vida ile sabitleyin.
+* Üç yatak deliğini hizalayın ve Motor Plakasını takın.&#x20;
+* Üç rulmanın da rulman deliklerine oturduğundan emin olun ve üç #10 X 1,875“ Ara Parçadan geçen üç #10-32 X 2,25” vida ile sabitleyin.
 
-<figure><img src="../../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -106,12 +112,12 @@ Tekerlek Bağlantısı B'yi iki adet 1/4-20 X .625 Soket Başlıklı Vida ile ta
 
 ### Falcon 500 Motor:
 
-* [Falcon 500](../../motorlar/fircasiz-motorlar/falcon.md) motorlarla birlikte verilen asetal ara parçaları kullanın.
+* [Falcon 500](../../motorlar/fircasiz-motorlar/falcon-500.md) motorlarla birlikte verilen asetal ara parçaları kullanın.
 * **Tahrik Motoru:** Pinyondan önce .125“ ve .25” ara parçalar, 20DP 14t Pinyon, .25“ ve .0625” sonra. 8-32 X 1/2” makas başlı vida ile sabitleyin.&#x20;
 * **Direksiyon Motoru:** 20DP 14t Pinyon, 2 X .25“, .125”, .0625” ara parçalar sonra. 8-32 X 1/2” makas başlı vida ile sabitleyin.
 * Tespit vidası üzerine orta güçte tespit macunu ile birleştirin.
 
-<figure><img src="../../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### [NEO](../../motorlar/fircasiz-motorlar/neo-v1/) ve [NEO Vortex](../../motorlar/fircasiz-motorlar/neo-v1/neo-vortex.md) Motorlar (8mm anahtarlı mil):
 
@@ -119,9 +125,9 @@ Tekerlek Bağlantısı B'yi iki adet 1/4-20 X .625 Soket Başlıklı Vida ile ta
 * **Direksiyon Motoru:** Pinyondan önce 1 mm ara parça, 20DP 14t Pinyon, sonra tespit halkası.&#x20;
 * Ara parçaları [NEO](../../motorlar/fircasiz-motorlar/neo-v1/) Motor şaftlarına yerleştirin, ardından makine anahtarlarını, dişlileri ve tespit halkalarını takın.
 
-<figure><img src="../../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
 
-### [Kraken X60](../../motorlar/fircasiz-motorlar/kraken-x60.md) Motors:
+### [Kraken X60](../../motorlar/fircasiz-motorlar/kraken-x60.md) Motorları:
 
 **Tahrik Motoru:** Önce .125“ ara parçayı, ardından 20DP 14t Pinyonu ve en son .375” ara parçayı takın. Orta güçte tutucu bileşik kullanarak 10-32 X 1/2” Düğme Başlı Vida ile sabitleyin.&#x20;
 
@@ -135,10 +141,10 @@ Tekerlek Bağlantısı B'yi iki adet 1/4-20 X .625 Soket Başlıklı Vida ile ta
 
 ## Adım 9: Motor Montajı
 
-* [Falcon 500](../../motorlar/fircasiz-motorlar/falcon.md) Motorlarını dört adet #10-32 X 1,5“ vida ve #10 X 1,125” ara parça ile takın.&#x20;
+* [Falcon 500](../../motorlar/fircasiz-motorlar/falcon-500.md) Motorlarını dört adet #10-32 X 1,5“ vida ve #10 X 1,125” ara parça ile takın.&#x20;
 * [NEO](../../motorlar/fircasiz-motorlar/neo-v1/), [NEO Vortex](../../motorlar/fircasiz-motorlar/neo-v1/neo-vortex.md) ve [Kraken X60](../../motorlar/fircasiz-motorlar/kraken-x60.md) Motorlar için üç vida/ara parçası kullanın. [NEO Vortex](../../motorlar/fircasiz-motorlar/neo-v1/neo-vortex.md) ve [Kraken X60](../../motorlar/fircasiz-motorlar/kraken-x60.md) Motorlar için, her motor ve üç ara parça arasına bir Yarım Daire Ara Parçası takın (gösterilmemiştir).
 
-<figure><img src="../../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -148,7 +154,7 @@ Tekerlek Bağlantısı B'yi iki adet 1/4-20 X .625 Soket Başlıklı Vida ile ta
 * Tekerlek alt montaj modülünü kaydırın ve Omuz Cıvatasını kısmen vidalayın.&#x20;
 * Tekerlek Bağlantısı A'yı iki adet 1/4-20 X 1” Soket Başlı Vidayla sabitleyin. Omuz Cıvatasını vidalayın.
 
-<figure><img src="../../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (18) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -164,7 +170,7 @@ Tekerlek Bağlantısı B'yi iki adet 1/4-20 X .625 Soket Başlıklı Vida ile ta
 * İşlenmiş tutucu özelliklerini kullanarak enkoder kablolarını Motor Plakasına bağlayın.&#x20;
 * Son olarak, sağlanan üç adet 8-32 X .875“ Düğme Vidayı ve üç adet #8 X .531” Ara Parçayı kullanarak işlenmiş Enkoder Muhafazasını monte edin.
 
-<figure><img src="../../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (19) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -177,7 +183,7 @@ Tekerlek Bağlantısı B'yi iki adet 1/4-20 X .625 Soket Başlıklı Vida ile ta
 ÖNEMLİ: Dişlileri kullanmadan önce beyaz lityum veya Red “N” Tacky gres ile ve kullanım sırasında düzenli olarak yağlayın.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (20) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

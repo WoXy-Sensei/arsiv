@@ -1,10 +1,10 @@
-# Falcon
+# Falcon 500
 
 Falcon motor, FRC (FIRST Robotics Competition) yarışmalarında sıkça kullanılan, fırçasız bir DC motor türüdür. Yüksek güç, verimlilik ve dayanıklılık sunarak robot tasarımlarında geniş bir kullanım alanı bulur.
 
 ***
 
-<figure><img src="../../../.gitbook/assets/image (14) (1).png" alt="" width="350"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (14) (1) (1).png" alt="" width="350"><figcaption></figcaption></figure>
 
 ***
 
