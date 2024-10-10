@@ -8,6 +8,14 @@ Bu projede yer alan tüm destekleyen takımlara içten teşekkürlerimizi sunuyo
 
 ***
 
+### SDS - [Swerve Drive Specialties](https://www.swervedrivespecialties.com/)
+
+<div align="left">
+
+<figure><img src="../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
 ### Team 254 - [The Cheesy Poofs](https://www.team254.com/)
 
 <div align="left">
@@ -29,6 +37,14 @@ Bu projede yer alan tüm destekleyen takımlara içten teşekkürlerimizi sunuyo
 <div align="left">
 
 <figure><img src="../.gitbook/assets/1888475.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+### Team 2910 - [Jack in the Bot](https://frcteam2910.org/)
+
+<div align="left">
+
+<figure><img src="../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
