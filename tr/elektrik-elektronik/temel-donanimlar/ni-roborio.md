@@ -52,7 +52,7 @@ Bu portlar genellikle limit anahtarları, dijital sensörler, butonlar, LED'ler 
   * **Kamera Bağlantısı**: USB portları, robot üzerindeki kameraların (örneğin USB kameralar) RoboRIO'ya bağlanması için kullanılabilir. Kameralardan gelen görüntüler Driver Station'a aktarılır, böylece sürücü robotu kontrol ederken kameradan canlı görüntü alabilir.
 * **Ethernet**: RoboRIO’nun Ethernet portu, robotun programlanması ve kontrolü için kullanılır. Robotun ana bilgisayara (Driver Station) bağlanmasını sağlar. Ethernet bağlantısı, kablolu iletişim üzerinden hızlı ve güvenilir veri aktarımı sağlar.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
 **Dikkat: RoboRIO 1 Satıştan Kaldırıldı!**

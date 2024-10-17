@@ -71,3 +71,11 @@ Bu projede yer alan tüm destekleyen takımlara içten teşekkürlerimizi sunuyo
 <figure><img src="../.gitbook/assets/image (27) (1).png" alt="" width="300"><figcaption></figcaption></figure>
 
 </div>
+
+### Team 3357 - [COMETS](https://www.instagram.com/cometsrobotics/)
+
+<div align="left">
+
+<figure><img src="../.gitbook/assets/image (4).png" alt="" width="351"><figcaption></figcaption></figure>
+
+</div>

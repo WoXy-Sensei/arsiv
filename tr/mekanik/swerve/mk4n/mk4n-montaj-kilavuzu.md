@@ -65,7 +65,7 @@ Bu montaj kılavuzu tüm konfigürasyonların montajını detaylandırmaktadır,
 
 MK4n Swerve Modülü simetrik bir ayak izine sahip değildir, bu nedenle “A” ve “B” olarak bilinen yansıtılmış düzenlerde mevcuttur. Tipik bir tahrik tabanı iki A düzenine ve iki B düzenine sahip olacaktır:
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 B düzeni için montaj işlemi aynıdır, ancak:
 
@@ -75,7 +75,7 @@ B düzeni için montaj işlemi aynıdır, ancak:
 
 İki saptırma modülü düzenine özgü bileşenler işaretlerinden tanımlanabilir:
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ***
 
@@ -101,7 +101,7 @@ Lütfen mıknatısın kodlayıcıya dahil olduğunu ve saptırma modülü kitine
 * Orta Kolon alt tertibatını mıknatıs yukarı bakacak şekilde bir kenara koyun, böylece tutucu bileşik mıknatıs istemeden kaymadan sertleşebilir.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -109,7 +109,7 @@ Lütfen mıknatısın kodlayıcıya dahil olduğunu ve saptırma modülü kitine
 
 * Büyük Direksiyon Yatağını Ana Plakaya takın ve ardından beş adet #10-32 x 0,25” Düğme Başlı Vida ile sabitleyin.
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Ana Plaka çok sayıda dişli deliğe sahip olduğundan, rulmanı sabitlemek için doğru beş deliğin kullanıldığından emin olun.
